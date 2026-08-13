@@ -52,3 +52,49 @@ header p
   background: #ae5bfc;
   color: #fdfcfc;
 }
+main 
+{
+  padding: 40px 20px;
+}
+.guide
+{
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #eeeeee;
+  border-radius: 10px;
+}
+.standard-gauge-labels img
+{
+  max-width: 100%;
+  height: auto;
+}
+.simplified-gauge-labels img
+{
+  max-width: 100%;
+  height: auto;
+}
+.opener img
+{
+  max-width: 100%;
+  height: auto;
+}
+.rotation img
+{
+  max-width: 100%;
+  height: auto;
+}
+.aoe img
+{
+  max-width: 100%;
+  height: auto;
+}
+.modifiedrot img
+{
+  max-width: 100%;
+  height: auto;
+}
+.ul 
+{
+  margin: 5px;
+}

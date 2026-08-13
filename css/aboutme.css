@@ -52,3 +52,19 @@ header p
   background: #ae5bfc;
   color: #fdfcfc;
 }
+main 
+{
+  padding: 40px 20px;
+}
+.about
+{
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: #eeeeee;
+  border-radius: 10px;
+}
+.about img
+{
+  max-width: 100%;
+}
