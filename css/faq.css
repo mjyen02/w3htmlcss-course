@@ -10,7 +10,7 @@ body
 {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  background: #f4f7fb;
+  background: #b9babb;
   color: #253238;
 }
 header 
@@ -51,4 +51,27 @@ header p
 {
   background: #ae5bfc;
   color: #fdfcfc;
+}
+main 
+{
+  margin: 0px;
+  padding: 50px;
+}
+.faq
+{
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 10px;
+}
+.faq article 
+{
+  flex: 1 1 220px;
+  padding: 24px;
+  border-radius: 16px;
+  background: #f1f5f9;
+  box-shadow: 0 12px 30px rgba(15,23,42,0.08);
 }
